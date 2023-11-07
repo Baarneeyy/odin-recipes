@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+.main_head {
+    font-family: 'Times New Roman', Times, serif;
+    color: steelblue;
+}
+
+.phrase {
+    font-family: 'Times New Roman', Times, serif;
+    color:firebrick;
+    font-weight: bold;
+    text-align: center;
+}
+
+.link {
+    color: rgb(30, 2, 2);
+}
+
+.list_item, .ingredients li, .equipment li{
+    list-style-type: none;
+}
